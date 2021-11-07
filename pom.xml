@@ -161,13 +161,13 @@
       <version>${revision}</version>
     </dependency>
 
-    <dependency>
+<!--     <dependency>
       <groupId>com.fasterxml.jackson.dataformat</groupId>
       <artifactId>jackson-dataformat-xml</artifactId>
       <version>${revision}</version>
-    </dependency>
+    </dependency> -->
 
-    <dependency>
+<!--     <dependency>
       <groupId>com.fasterxml.jackson.dataformat</groupId>
       <artifactId>jackson-dataformat-yaml</artifactId>
       <version>${revision}</version>
@@ -182,6 +182,6 @@
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>snakeyaml-api</artifactId>
-    </dependency>
+    </dependency> -->
   </dependencies>
 </project>
